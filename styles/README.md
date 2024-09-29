@@ -29,6 +29,17 @@ I absolutely couldn't have done this by myself
 Changelog:
 
 2.8
++ l2_beach updated (pieces added/modified, level templates added as backgrounds)
++ 5 new dex styles added (autumn, circuit, mosaic, palace, rust)
++ 3 new namida styles added (crypt, dungeon, organic)
++ 2 new glitchapp styles added (cavetileset, underwaterdiveBlue)
++ added new style eric_special
++ Portals added to willlem_special
++ psp_levels style added (required to play Oscar's PSP Lemmings)
++ Updates to several glitchapp styles (added fish, bubbles and single-use mine traps)
+  ~ (fishcoralreef, fishfilletscity, underwaterdivingstyle)
++ Rival recolourings added to the following styles:
+  ~ (gigalem_millas & millas 2, 
 ~ 14 more gadgets updated from "Background" to "Decoration" in various styles
 
 2.7.3
