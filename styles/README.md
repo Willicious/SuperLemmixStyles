@@ -39,7 +39,7 @@ Changelog:
 + Updates to several glitchapp styles (added fish, bubbles and single-use mine traps)
   ~ (fishcoralreef, fishfilletscity, underwaterdivingstyle)
 + Rival recolourings added to the following styles:
-  ~ (gigalem_millas & millas 2, 
+  ~ (flopsy_soniclems, gigalem_millas & millas 2, xmas)
 ~ 14 more gadgets updated from "Background" to "Decoration" in various styles
 
 2.7.3
