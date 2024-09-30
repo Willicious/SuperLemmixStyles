@@ -38,8 +38,10 @@ Changelog:
 + psp_levels style added (required to play Oscar's PSP Lemmings)
 + Updates to several glitchapp styles (added fish, bubbles and single-use mine traps)
   ~ (fishcoralreef, fishfilletscity, underwaterdivingstyle)
-+ Rival recolourings added to the following styles:
++ Rival recolourings / other theme data added to the following styles:
   ~ (flopsy_soniclems, gigalem_millas & millas 2, xmas)
+  ~ (strato_lems_arab, strato_lems_lix, strato_lems_soviet)
++ Exit markers added to jamie_techno
 ~ 14 more gadgets updated from "Background" to "Decoration" in various styles
 
 2.7.3
