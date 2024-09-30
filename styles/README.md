@@ -43,6 +43,11 @@ Changelog:
   ~ (strato_lems_arab, strato_lems_lix, strato_lems_soviet)
 + Exit markers added to jamie_techno
 + Pieces added to turrican_special
+~ Sounds updated for objects in several styles
+  ~ (davidz_persiapalace, flopsy_gigalem_labyrinth, gigalem_desertmd, gigalem_lagoon...)
+  ~ (gigalem_purplemd, gigalem_relic, ohno_snow, plom_metro, plom_psychmd, plom_studio...)
+  ~ (proxima_persia, ray_cyberspace, ray_eldorado, timfoxxy_gigalem_launchbase...)
+  ~ (willlem_lemminas_slushworld, willlem_special, willlem_xmas)
 ~ 14 more gadgets updated from "Background" to "Decoration" in various styles
 
 2.7.3
