@@ -42,6 +42,7 @@ Changelog:
   ~ (flopsy_soniclems, gigalem_millas & millas 2, xmas)
   ~ (strato_lems_arab, strato_lems_lix, strato_lems_soviet)
 + Exit markers added to jamie_techno
++ Pieces added to turrican_special
 ~ 14 more gadgets updated from "Background" to "Decoration" in various styles
 
 2.7.3
