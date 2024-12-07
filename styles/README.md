@@ -28,6 +28,11 @@ I absolutely couldn't have done this by myself
 
 Changelog:
 
+2.8.3
++ Updated all styles with custom sprites:
+  ~ Platformer bricks are now 2px thick (updated sprites, scheme and levelinfo_icons accordingly)
+- Removed psp_styles (Oscar's levels have not yet been added to DMA compilation, and this large style takes the folder over 100MB)
+
 2.8
 + l2_beach updated (pieces added/modified, level templates added as backgrounds)
 + 5 new dex styles added (autumn, circuit, mosaic, palace, rust)
