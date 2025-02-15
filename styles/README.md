@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 
-STYLES VERSION 2.8.5
+STYLES VERSION 2.8.7
 
 --------------------------------------------------------------------------------
 
@@ -28,7 +28,11 @@ I absolutely couldn't have done this by myself
 
 Changelog:
 
-(No changes for 2.8.4 and 2.8.5)
+2.8.7
++ Added 5 of Dex's sets (dex_brass, dex_grotto, dex_hoard, dex_jade, dex_lush)
+  ~ Updated styles.ini to include these
+
+(No changes for 2.8.4, 2.8.5 and 2.8.6)
 
 2.8.3
 + Updated all styles with custom sprites:
